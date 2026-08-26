@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Runtime logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# Python virtual environments
+venv/
+.venv/
+
+# Temporary files
+*.tmp
+*.temp
